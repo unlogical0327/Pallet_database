@@ -1,0 +1,40 @@
+PsGetCameraParameters status: 0
+Depth Camera Intinsic: 
+Fx: 462.596
+Cx: 341.169
+Fy: 462.64
+Cy: 174.034
+Depth Distortion Coefficient: 
+K1: 0.645076
+K2: 1.36258
+P1: 0.00412505
+P2: 0.00114053
+K3: -1.96733
+K4: 0.250809
+K5: 2.30062
+K6: -2.38954
+PsGetCameraParameters status: 0
+RGB Camera Intinsic: 
+Fx: 531.666
+Cx: 319.798
+Fy: 531.424
+Cy: 190.515
+RGB Distortion Coefficient: 
+K1: -0.185442
+K2: 0.161617
+K3: -0.0319136
+P1: 0.00109236
+P2: -0.000285075
+PsGetCameraExtrinsicParameters status: 0
+Camera rotation: 
+0.999887 -0.0074732 -0.0130666 0.00743944 0.999969 -0.00263025 0.0130858 0.00253274 0.999911 
+Camera transfer: 
+47.1555 -0.681975 -2.67337 
+DistortionCorrection Enable: 1
+Filter Enable: 0
+MappedRGB: 1
+MappedIR: 0
+MappedDepth: 0
+WDRMode: 0InvalidDepth2Zero: 0
+DustFilter: 0
+Sync settings: 1
